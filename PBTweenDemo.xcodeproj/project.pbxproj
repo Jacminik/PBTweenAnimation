@@ -22,13 +22,13 @@
 		D41BAFEB1531FD31004EFDFE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D41BAFED1531FD31004EFDFE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D41BAFEF1531FD31004EFDFE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D41BAFF31531FD31004EFDFE /* PBTweenDemo-Info.plist */ = {isa = PBXFileReference; path = "PBTweenDemo-Info.plist"; sourceTree = "<group>"; };
+		D41BAFF31531FD31004EFDFE /* PBTweenDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PBTweenDemo-Info.plist"; sourceTree = "<group>"; };
 		D41BAFF51531FD31004EFDFE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D41BAFF71531FD31004EFDFE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D41BAFF91531FD31004EFDFE /* PBTweenDemo-Prefix.pch */ = {isa = PBXFileReference; path = "PBTweenDemo-Prefix.pch"; sourceTree = "<group>"; };
-		D41BAFFA1531FD31004EFDFE /* PBAppDelegate.h */ = {isa = PBXFileReference; path = PBAppDelegate.h; sourceTree = "<group>"; };
+		D41BAFF91531FD31004EFDFE /* PBTweenDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PBTweenDemo-Prefix.pch"; sourceTree = "<group>"; };
+		D41BAFFA1531FD31004EFDFE /* PBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PBAppDelegate.h; sourceTree = "<group>"; };
 		D41BAFFB1531FD31004EFDFE /* PBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PBAppDelegate.m; sourceTree = "<group>"; };
-		D41BAFFD1531FD31004EFDFE /* PBViewController.h */ = {isa = PBXFileReference; path = PBViewController.h; sourceTree = "<group>"; };
+		D41BAFFD1531FD31004EFDFE /* PBViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PBViewController.h; sourceTree = "<group>"; };
 		D41BAFFE1531FD31004EFDFE /* PBViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PBViewController.m; sourceTree = "<group>"; };
 		D41BB0011531FD31004EFDFE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PBViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
