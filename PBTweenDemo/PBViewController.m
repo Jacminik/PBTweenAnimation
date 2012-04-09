@@ -10,7 +10,8 @@
 #import "PBTweenAnimation.h"
 
 @interface PBViewController ()
-
+- (void)addAnimationLayer;
+- (void)beginAnimation;
 @end
 
 @implementation PBViewController {
